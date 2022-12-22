@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- <p align="center">
+<p align="center">
    <table>
       <tr>
        <th>Profile stats  </th>
@@ -20,4 +20,3 @@
     </tr>
     </table>
 </p>
- -->
